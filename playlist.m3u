@@ -125,6 +125,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
+
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
 http://avd.iptviptv.site:9694/hls/150/index.m3u8
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png",新闻综合
@@ -152,38 +153,6 @@ http://avd.iptviptv.site:9694/hls/456/index.m3u8
 http://avd.iptviptv.site:9694/hls/457/index.m3u8
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png",广东影视
 http://avd.iptviptv.site:9694/hls/458/index.m3u8
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://live.fanmingming.com/tv/潮州综合.png",潮州综合
-http://avd.iptviptv.site:9694/hls/459/index.m3u8
-#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://live.fanmingming.com/tv/潮州民生.png",潮州民生
-http://avd.iptviptv.site:9694/hls/460/index.m3u8
-#EXTINF:-1 tvg-name="梅州导视" tvg-logo="https://live.fanmingming.com/tv/梅州导视.png",梅州导视
-http://avd.iptviptv.site:9694/hls/461/index.m3u8
-#EXTINF:-1 tvg-name="广东导视(G导视)" tvg-logo="https://live.fanmingming.com/tv/广东导视(G导视).png",广东导视(G导视)
-http://avd.iptviptv.site:9694/hls/462/index.m3u8
-#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://live.fanmingming.com/tv/广西新闻.png",广西新闻
-http://avd.iptviptv.site:9694/hls/470/index.m3u8
-#EXTINF:-1 tvg-name="广西综艺" tvg-logo="https://live.fanmingming.com/tv/广西综艺.png",广西综艺
-http://avd.iptviptv.site:9694/hls/471/index.m3u8
-#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://live.fanmingming.com/tv/广西都市.png",广西都市
-http://avd.iptviptv.site:9694/hls/472/index.m3u8
-#EXTINF:-1 tvg-name="广西乐购" tvg-logo="https://live.fanmingming.com/tv/广西乐购.png",广西乐购
-http://avd.iptviptv.site:9694/hls/473/index.m3u8
-#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://live.fanmingming.com/tv/广西影视.png",广西影视
-http://avd.iptviptv.site:9694/hls/474/index.m3u8
-#EXTINF:-1 tvg-name="广西资讯" tvg-logo="https://live.fanmingming.com/tv/广西资讯.png",广西资讯
-http://avd.iptviptv.site:9694/hls/475/index.m3u8
-#EXTINF:-1 tvg-name="南宁新闻" tvg-logo="https://live.fanmingming.com/tv/南宁新闻.png",南宁新闻
-http://avd.iptviptv.site:9694/hls/476/index.m3u8
-#EXTINF:-1 tvg-name="南宁都市" tvg-logo="https://live.fanmingming.com/tv/南宁都市.png",南宁都市
-http://avd.iptviptv.site:9694/hls/477/index.m3u8
-#EXTINF:-1 tvg-name="南宁影视" tvg-logo="https://live.fanmingming.com/tv/南宁影视.png",南宁影视
-http://avd.iptviptv.site:9694/hls/478/index.m3u8
-#EXTINF:-1 tvg-name="南宁公共" tvg-logo="https://live.fanmingming.com/tv/南宁公共.png",南宁公共
-http://avd.iptviptv.site:9694/hls/479/index.m3u8
-#EXTINF:-1 tvg-name="贺州综合" tvg-logo="https://live.fanmingming.com/tv/贺州综合.png",贺州综合
-http://avd.iptviptv.site:9694/hls/480/index.m3u8
-#EXTINF:-1 tvg-name="玉林新闻" tvg-logo="https://live.fanmingming.com/tv/玉林新闻.png",玉林新闻
-http://avd.iptviptv.site:9694/hls/488/index.m3u8
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png",CHC家庭影院
 http://avd.iptviptv.site:9694/hls/700/index.m3u8
@@ -199,20 +168,10 @@ http://avd.iptviptv.site:9694/hls/704/index.m3u8
 http://avd.iptviptv.site:9694/hls/705/index.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png",高尔夫网球
 http://avd.iptviptv.site:9694/hls/706/index.m3u8
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png",女性时尚
-http://avd.iptviptv.site:9694/hls/707/index.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png",世界地理
 http://avd.iptviptv.site:9694/hls/708/index.m3u8
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png",怀旧剧场
-http://avd.iptviptv.site:9694/hls/709/index.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png",风云剧场
-http://avd.iptviptv.site:9694/hls/710/index.m3u8
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场
-http://avd.iptviptv.site:9694/hls/711/index.m3u8
-#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png",老故事
-http://avd.iptviptv.site:9694/hls/712/index.m3u8
-#EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/中学生.png",中学生
-http://avd.iptviptv.site:9694/hls/713/index.m3u8
+
+
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓
 http://avd.iptviptv.site:9694/hls/714/index.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png",天元围棋
