@@ -87,12 +87,7 @@ http://avd.iptviptv.site:9694/hls/904/index.m3u8
 http://avd.iptviptv.site:9694/hls/905/index.m3u8
 #EXTINF:-1 tvg-name="V音乐台" tvg-logo="https://live.fanmingming.com/tv/V音乐台.png" group-title="国际频道",V音乐台
 http://avd.iptviptv.site:9694/hls/1000/index.m3u8
-#EXTINF:-1 tvg-name="今日俄罗斯" tvg-logo="https://live.fanmingming.com/tv/今日俄罗斯.png" group-title="国际频道",今日俄罗斯
-http://avd.iptviptv.site:9694/hls/1003/index.m3u8
-#EXTINF:-1 tvg-name="日本NHK" tvg-logo="https://live.fanmingming.com/tv/日本NHK.png" group-title="国际频道",日本NHK
-http://avd.iptviptv.site:9694/hls/1004/index.m3u8
-#EXTINF:-1 tvg-name="韩国KBS" tvg-logo="https://live.fanmingming.com/tv/韩国KBS.png" group-title="国际频道",韩国KBS
-http://avd.iptviptv.site:9694/hls/1005/index.m3u8
+
 #EXTINF:-1 tvg-name="天映經典頻道" tvg-logo="https://live.fanmingming.com/tv/天映經典頻道.png" group-title="国际频道",天映經典頻道
 http://avd.iptviptv.site:9694/hls/914/index.m3u8
 #EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="https://live.fanmingming.com/tv/黃金翡翠台.png" group-title="国际频道",黃金翡翠台
@@ -104,18 +99,6 @@ http://avd.iptviptv.site:9694/hls/731/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资询" tvg-logo="https://live.fanmingming.com/tv/凤凰资询.png" group-title="国际频道",凤凰资询
 http://avd.iptviptv.site:9694/hls/732/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="超清频道",CCTV-4K
-https://cntv.sbs/ipv6?auth=2307100804&id=ys4Kcq_2000
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="超清频道",CCTV16-4K
-https://cntv.sbs/ipv6?auth=2307100804&id=CCTV-16-4K_8000
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="超清频道",欢笑剧场4K
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="超清频道",纯享超清
-http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 tvg-id="苏州-4K" tvg-name="苏州-4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png" group-title="超清频道",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="超清频道",4K超高清电影
-https://cntv.sbs/ipv6?auth=2307100804&id=emdy4k_8000
 
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -198,14 +181,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
 
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
-http://avd.iptviptv.site:9694/hls/150/index.m3u8
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png",新闻综合
-http://avd.iptviptv.site:9694/hls/151/index.m3u8
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
-http://avd.iptviptv.site:9694/hls/152/index.m3u8
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",第一财经
-http://avd.iptviptv.site:9694/hls/153/index.m3u8
+
 
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="广东频道",广东卫视
 http://avd.iptviptv.site:9694/hls/450/index.m3u8
@@ -227,7 +203,14 @@ http://avd.iptviptv.site:9694/hls/457/index.m3u8
 http://avd.iptviptv.site:9694/hls/458/index.m3u8
 
 
-
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png",五星体育
+http://avd.iptviptv.site:9694/hls/150/index.m3u8
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png",新闻综合
+http://avd.iptviptv.site:9694/hls/151/index.m3u8
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
+http://avd.iptviptv.site:9694/hls/152/index.m3u8
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png",第一财经
+http://avd.iptviptv.site:9694/hls/153/index.m3u8
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png",新视觉
 http://avd.iptviptv.site:9694/hls/717/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png",劲爆体育
